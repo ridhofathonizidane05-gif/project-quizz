@@ -1,0 +1,6 @@
+OPSIONAL - gambar maskot per ekspresi (taruh di public/images/):
+maskot-cowok-senang.png   maskot-cewek-senang.png
+maskot-cowok-sedih.png    maskot-cewek-sedih.png
+maskot-cowok-lambai.png   maskot-cewek-lambai.png
+maskot-cowok-semangat.png maskot-cewek-semangat.png
+Kalau ekspresi tertentu tidak ada, otomatis pakai maskot-cowok.png / maskot-cewek.png biasa (hanya digerakkan).
